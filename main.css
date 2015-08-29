@@ -1,0 +1,41 @@
+img {
+  margin: 10% 20% 20% 40%;
+}
+
+p {
+font-family: Sans-serif;
+font-size: 0.85em;
+}
+
+#search {
+    width: 30%;
+    position: absolute;
+    left: 700px;
+    top: 330px;
+}
+
+#maori {
+position: absolute;
+    left: 850px;
+    top: 410px;
+}
+
+#foot {
+ background-color: #f2f2f2;
+ margin: 0;
+ padding: 0;
+ bottom: 0;
+ border-top: 1px solid #e4e4e4;
+}
+
+#button2 {
+position: absolute;
+    left: 840px;
+    top: 390px;
+}
+
+#button1 {
+position: absolute;
+    left: 955px;
+    top: 390px;
+}
