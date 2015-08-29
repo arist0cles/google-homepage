@@ -20,10 +20,14 @@ position: absolute;
     top: 410px;
 }
 
+#foot1 {
+ margin: 0%; 2%;
+ padding: 0;
+ bottom: 0;
+}
+
 #foot {
  background-color: #f2f2f2;
- margin: 0;
- padding: 0;
  bottom: 0;
  border-top: 1px solid #e4e4e4;
 }
@@ -38,4 +42,18 @@ position: absolute;
 position: absolute;
     left: 955px;
     top: 390px;
+}
+
+li {
+font-family: Sans-serif;
+font-size: 0.85em;
+ font-color: gray;
+float: left;
+margin: 0 10px;
+}
+
+ul {
+ list-style-type: none;
+ padding: 0;
+ float: right;
 }
